@@ -1,0 +1,118 @@
+table, td, th{
+
+    border: 2px solid;
+    border-collapse: collapse;
+    border-color: #96d4d9;
+    
+}
+
+table{
+
+    width: 50%;
+    margin: 10px auto
+    /*font-size: 20px;*/
+}
+
+td, th{
+    padding: 10px;
+    
+}
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+
+caption{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+tr:nth-child(even){
+    background-color:lightgray;
+}
+
+tr:hover{
+    background-color: darkgray;
+
+}
+
+.green{
+    background: green;
+    color: white;
+    font-size: 17px;
+    padding: 3px 8px;
+    border: none;
+}
+
+.yellow{
+    background: orange;
+    color: black;
+    font-size: 17px;
+    padding: 3px 8px;
+    border: none;
+}
+
+table, td, th{
+
+    border: 2px solid;
+    border-collapse: collapse;
+    border-color: #96d4d9;
+    
+}
+
+table{
+
+    width: 50%;
+    margin: 10px auto
+    /*font-size: 20px;*/
+}
+
+td, th{
+    padding: 10px;
+    
+}
+th{
+    background-color: dodgerblue;
+    color: white;
+}
+
+caption{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+tr:nth-child(even){
+    background-color:lightgray;
+}
+
+tr:hover{
+    background-color: darkgray;
+
+}
+
+.green{
+    background: green;
+    color: white;
+    font-size: 17px;
+    padding: 3px 8px;
+    border: none;
+}
+
+.yellow{
+    background: orange;
+    color: black;
+    font-size: 17px;
+    padding: 3px 8px;
+    border: none;
+}
+
